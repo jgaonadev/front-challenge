@@ -25,7 +25,7 @@ MUI, Redux.js, TypeScript, React.js, Jest, JavaScript, Azure, Docker, AWS (SNS,E
 * Git
 
 ```bash
-    curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash - &&\
+    curl -s https://deb.nodesource.com/setup_16.x | sudo bash
 
     sudo apt-get install -y nodejs
 
